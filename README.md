@@ -5,7 +5,7 @@
 📚 Lifelong Learner: Exploring new technologies and frameworks.
 
 💻 Currently Learning:
-   - 💡 JavaScript | TypeScript
+   - 💡 C | JavaScript | TypeScript
    - 🌐 HTML | CSS | React | Angular
    - 📱 React Native
    - 🚀 Node.js | Express.js
