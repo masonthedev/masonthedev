@@ -1,6 +1,6 @@
 👋 Hello World! I'm MasonTheDev | Full Stack Developer
 
-👨‍💻 On a journey from Dude to Dev. Studying through CS50, Zero To Mastery, and hands on projects.
+👨‍💻 On a journey to Dev. Studying through CS50, Zero To Mastery, and hands on projects.
 
 📚 Lifelong Learner: Exploring new technologies and frameworks.
 
