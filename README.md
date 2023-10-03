@@ -50,31 +50,3 @@ I’ve solved challenges as a service technician, worn various hats in startups,
                       href="http://www.github.com/masonthedev"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=masonthedev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/masonthedev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=masonthedev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/masonthedev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonthedev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!-- this was my original README.md --->
-<!---👋 Hello World! I'm MasonTheDev | Full Stack Developer
-
-👨‍💻 On a journey to Dev. Studying through CS50, Zero To Mastery, and hands on projects.
-
-📚 Lifelong Learner: Exploring new technologies and frameworks.
-
-💻 Currently Learning:
-   - 💡 C | JavaScript | TypeScript
-   - 🌐 HTML | CSS | React | Angular
-   - 📱 React Native
-   - 🚀 Node.js | Express.js
-   - 📦 MongoDB | PostgreSQL
-
-🌐 Excited to give back to the community.
-
-🌍 Let's connect and collaborate on exciting projects! 
-   - 📫 Reach me at https://www.linkedin.com/in/masonthedev/
-
-💼 Currently working as an associate marketing manager and excited to write my next chapter through code.
-
-📝 Check out my latest projects below! 👇
---->
-<!---
-masonthedev/masonthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
