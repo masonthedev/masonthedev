@@ -1,15 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mason Franceschi
+Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mason Franceschi
 ========================================================================================================================================
 
 Developer and Student
 ---------------------
 
-I’ve solved challenges as a service technician, worn various hats in startups, automated workflows, integrated CRMs, and enhanced email marketing campaigns. I’m currently studying through CS50, Zero To Mastery, and hands-on projects. I'm eager to apply all that I've learned through troubleshooting, management, and collaborative projects to code.
+I’ve solved challenges as a service technician, worn various hats in startups, automated workflows, integrated CRMs, and enhanced marketing campaigns. I’m currently studying through CS50, Zero To Mastery, and hands-on projects. I'm eager to apply all that I've learned through troubleshooting, management, and collaborative projects to code.
 
 * 🌍  I'm based in Colorado
 * 🧠  I'm learning C and JavaScript
-* 🤝  I'm open to collaborating on anything and everything
-* ⚡  Ninja Warrior Coach by day... Programmer by night
+* 💼  Currently working as an associate marketing manager 
+* ⚡   Excited to write my next chapter through code.
+* 🌍  Let's connect and collaborate on exciting projects!
+* 💻  Currently Learning to work with:
+   - 💡 C | JavaScript | TypeScript
+   - 🌐 HTML | CSS | React | Angular
+   - 📱 React Native
+   - 🚀 Node.js | Express.js
+   - 📦 MongoDB | PostgreSQL
 
 ### Skills
 
