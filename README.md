@@ -12,7 +12,7 @@ I’ve solved challenges as a service technician, worn various hats in startups,
 * ⚡   Excited to write my next chapter through code.
 * 🌍  Let's connect and collaborate on exciting projects!
 * 💻  Learning to work with:
-   - 💡 C | JavaScript
+   - 💡 C | JavaScript | Python
    - 🌐 HTML | CSS | React
    - 📱 React Native
    - 🚀 Node.js | Express.js
