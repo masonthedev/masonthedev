@@ -12,8 +12,8 @@ I’ve solved challenges as a service technician, worn various hats in startups,
 * ⚡   Excited to write my next chapter through code.
 * 🌍  Let's connect and collaborate on exciting projects!
 * 💻  Learning to work with:
-   - 💡 C | JavaScript | TypeScript
-   - 🌐 HTML | CSS | React | Angular
+   - 💡 C | JavaScript
+   - 🌐 HTML | CSS | React
    - 📱 React Native
    - 🚀 Node.js | Express.js
    - 📦 MongoDB | PostgreSQL
