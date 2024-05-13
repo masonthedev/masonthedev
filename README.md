@@ -8,15 +8,15 @@ I’ve solved challenges as a service technician, worn various hats in startups,
 
 * 🌍  I'm based in Colorado
 * 🧠  My current focus is C and JavaScript
-* 💼  Working as an Associate Marketing Manager 
-* ⚡   Excited to write my next chapter through code.
-* 🌍  Let's connect and collaborate on exciting projects!
+* 💼  Working as an SEO Specialist and Associate Marketing Manager 
+<!-- * ⚡   Excited to write my next chapter through code.
+* 🌍  Let's connect and collaborate on exciting projects! -->
 * 💻  Learning to work with:
    - 💡 C | JavaScript | Python
    - 🌐 HTML | CSS | React
-   - 📱 React Native
+  <!-- - 📱 React Native
    - 🚀 Node.js | Express.js
-   - 📦 MongoDB | PostgreSQL
+   - 📦 MongoDB | PostgreSQL -->
 
 ### Skills
 
