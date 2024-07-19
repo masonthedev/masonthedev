@@ -7,16 +7,16 @@ Developer and Student
 I’ve solved challenges as a service technician, worn various hats in startups, automated workflows, integrated CRMs, and enhanced marketing campaigns. I’m currently studying through CS50, Zero To Mastery, and hands-on projects. I'm eager to apply all that I've learned through troubleshooting, management, and collaborative projects to code.
 
 * 🌍  I'm based in Colorado
-* 🧠  My current focus is C and JavaScript
+* 🧠  My current focus is JavaScript and React
 * 💼  Working as an SEO Specialist and Associate Marketing Manager 
 <!-- * ⚡   Excited to write my next chapter through code.
 * 🌍  Let's connect and collaborate on exciting projects! -->
 * 💻  Learning to work with:
    - 💡 C | JavaScript | Python
    - 🌐 HTML | CSS | React
-  <!-- - 📱 React Native
+   - 📱 React Native
    - 🚀 Node.js | Express.js
-   - 📦 MongoDB | PostgreSQL -->
+   - 📦 MongoDB | PostgreSQL
 
 ### Skills
 
